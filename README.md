@@ -6,7 +6,7 @@ Drishti is a centralized solution that analyzes data from multiple sources and i
 </p>
 
 <p align="center">
-    <img src="Snapshots/Drishti_English.JPG">
+    <img src="Snapshots/Banner.JPG">
 </p>
 
 # Project Vision
