@@ -143,4 +143,4 @@ The model uses the technique of Multiple Object Detection with Localization trac
 # __***Your feedback is highly appreciated.***__
 <i class="fa-solid fa-envelopes"></i>teamparibhaavya@gmail.com
 
-<i style='font-size:24px' class='fas'>&#xf1f9;</i> Team Paribhaavya
+&#xf1f9 Team Paribhaavya
