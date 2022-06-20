@@ -1,4 +1,4 @@
-# ** दृष्टि || Drishti
+# ** दृष्टि || Drishti **
 Drishti is a centralized solution that analyzes data from multiple sources and is capable of detecting a person's face and vehicles in real time and automatically matching it with the database. Additionally, it aids in detecting criminal activity/crime with CCTV by evaluating live movies for violence, mob formation, suspicious body language and similar activities.
 
 <p align="center">
