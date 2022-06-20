@@ -138,7 +138,7 @@ We tried and tested various architectures for this project. A brief summary and 
 
 # __***That has been a long reading. Take a pause😉***__
 <p align="center">
-    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Kshitij-Kumar-Singh-Chauhan/Drishti/blob/main/Snapshots/Drishti.gif" />
+    <img src="https://github.com/Kshitij-Kumar-Singh-Chauhan/Drishti/blob/main/Snapshots/Drishti.gif" />
 </p>
 
 ### ⚙️ &nbsp; Ultimate Objective
