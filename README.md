@@ -1,5 +1,13 @@
-### दृष्टि || Drishti
+# **दृष्टि || Drishti**
 Drishti is a centralized solution that analyzes data from multiple sources and is capable of detecting a person's face and vehicles in real time and automatically matching it with the database. Additionally, it aids in detecting criminal activity/crime with CCTV by evaluating live movies for violence, mob formation, suspicious body language and similar activities.
+
+<p align="center">
+    <img src="Snapshots/Drishti_Hindi.JPG">
+</p>
+
+<p align="center">
+    <img src="Snapshots/Drishti_English.JPG">
+</p>
 
 # Project Vision
 ## Introduction
@@ -128,5 +136,11 @@ We tried and tested various architectures for this project. A brief summary and 
     </p>
     <br>
 
+
 ### ⚙️ &nbsp; Ultimate Objective
 The model uses the technique of Multiple Object Detection with Localization tracking the movement of people and then categorizing it into violent or non-violent behavior. Our proposed solution will ensure Public Safety and security without any human toil with an instant alert to the concerned authorities. Through ***Crowd Monitoring and Behavioral Analysis*** our solution aims to evoke the sense of security in men and women. The constant rise of criminal activities, their unexpectedness, and scope of harm that can be inflicted can be exponentially reduced through our proposed system. 
+
+# __***Your feedback is highly appreciated.***__
+<i class="fa-solid fa-envelopes"></i>teamparibhaavya@gmail.com
+
+© Team Paribhaavya
