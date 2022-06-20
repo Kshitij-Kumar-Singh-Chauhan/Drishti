@@ -136,12 +136,11 @@ We tried and tested various architectures for this project. A brief summary and 
     </p>
     <br>
 
-# __***That has been a long reading. Take a pause😉***__
-<p align="center">
-    <img src="https://github.com/Kshitij-Kumar-Singh-Chauhan/Drishti/blob/main/Snapshots/Drishti.gif" />
-</p>
 
 ### ⚙️ &nbsp; Ultimate Objective
 The model uses the technique of Multiple Object Detection with Localization tracking the movement of people and then categorizing it into violent or non-violent behavior. Our proposed solution will ensure Public Safety and security without any human toil with an instant alert to the concerned authorities. Through ***Crowd Monitoring and Behavioral Analysis*** our solution aims to evoke the sense of security in men and women. The constant rise of criminal activities, their unexpectedness, and scope of harm that can be inflicted can be exponentially reduced through our proposed system. 
 
+# __***Your feedback is highly appreciated.***__
+<i class="fa-solid fa-envelopes"></i>teamparibhaavya@gmail.com
 
+<i style='font-size:24px' class='fas'>&#xf1f9;</i> Team Paribhaavya
