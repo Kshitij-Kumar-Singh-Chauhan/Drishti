@@ -6,7 +6,7 @@ Drishti is a centralized solution that analyzes data from multiple sources and i
 </p>
 
 <p align="center">
-    <img src="Snapshots/Drishti_English.JPG">
+    <img src="Snapshots/Banner.jpg">
 </p>
 
 # Project Vision
@@ -120,6 +120,7 @@ We tried and tested various architectures for this project. A brief summary and 
     <p align="center">
     <img src="Machine Learning/stats/AlexNet .png">
     </p>
+
 
     <br><br>
 
