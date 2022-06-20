@@ -121,6 +121,7 @@ We tried and tested various architectures for this project. A brief summary and 
     <img src="Machine Learning/stats/AlexNet .png">
     </p>
 
+
     <br><br>
 
 4. **Inception+CustomisedCNN**: Using transfer learning of Inception Architecture and passing it to CustomisedCNN trained the model with satisfactory results.
